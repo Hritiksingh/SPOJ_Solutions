@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1588228819 source:f:\c++\alphacode_spoj\main.cpp
+	<bits/stdc++.h>
+	<bits/stdc++.h>
+	<string>
+	<climits>
+	<bits/stdc++.h>
+
